@@ -1,0 +1,70 @@
+.wrap-style{
+	background:#fff;
+	border-radius:10px;
+	padding:10px;
+	border:1px solid #fafafa;
+	width:80%;
+	margin:auto;
+}
+.block{
+	width:98%;
+	padding:10px;
+	margin:auto;
+	margin-bottom:25px;
+	border:1px solid #F8F8F8;
+	border-radius:10px;
+}
+.block h3{
+	background:#eee;
+	width:100%;
+	padding:10px 0;
+	text-indent:20px;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-weight:100;
+	font-size:12px;
+	border-radius:10px;
+	color:#999;
+	text-shadow:5px 0 2px #fff;
+}
+.block .content{
+	background:#eee;
+	width:96%;
+	padding:18px;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-weight:100;
+	font-size:12px;
+	border-radius:10px;
+}
+.content label{
+	float:right;
+	display:block;
+	width:20%;
+}
+.content textarea,
+.content input[type=text],
+.wrap-style .content input[type=email],
+.wrap-style .content input[type=url],
+.wrap-style .content select{
+	width:50%;
+	padding:5px;
+	border:px solid #ccc;
+	border-radius:5px;
+	min-height:35px;
+}
+.content span{
+	width:100%;
+	display:block;
+	clear:both;
+	margin-bottom:10px;
+}
+.wrap-style .content table,
+.wrap-style .content td,
+.wrap-style .content tr,
+.wrap-style .content th{
+	border:1px solid #ccc;
+}
+.wrap-style .button{
+	margin:5px;
+	margin-top:10px;
+	margin-right:20px;
+}

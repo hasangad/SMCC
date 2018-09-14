@@ -159,6 +159,13 @@ if ( !defined('ABSPATH') )
 
 
 
+
+/*-----------------------------------*/
+ini_set('display_errors','Off');
+ini_set('error_reporting', E_ALL );
+define('WP_DEBUG', false);
+define('WP_DEBUG_DISPLAY', false);
+
 /*----------- Hide  ------------*/
 define ( 'WP_CONTENT_FOLDERNAME', 'site/' );
 define ( 'WP_CONTENT_DIR', ABSPATH . WP_CONTENT_FOLDERNAME );
