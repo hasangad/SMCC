@@ -1,0 +1,51 @@
+/*
+Theme Name:  Al Zwaid Framework
+Theme URI: http://***
+Description: Al Zwaid Framework
+Author: Al Zwaid holding
+Version: 1	Beta
+*/
+
+/* main */
+
+@import url(https://fonts.googleapis.com/earlyaccess/notonaskharabic.css);
+/*-------------- ::selection -------------- */
+
+.pagination a {
+  background: #cccccc;
+  border: 1px solid #999;
+}
+
+.pagination .current {
+  color: #ffffff;
+  background: #138fc4;
+  border: 1px solid #138fc4;
+}
+
+.pagination a:hover {
+  background: #138fc4;
+  border: 1px solid #138fc4;
+  color: #fff;
+}
+
+.title h2 {
+  color: #ffffff;
+  background: #4374c5;
+  padding: 12px 22px;
+  border-radius: 28px;
+  font-size: 18px;
+  float: right;
+}
+
+.social {
+  list-style: none;
+}
+
+.social li {
+  float: left;
+}
+
+.social li a:hover i {
+  color: #bf992a !important;
+  transform: scale(1.2, 1.2);
+}

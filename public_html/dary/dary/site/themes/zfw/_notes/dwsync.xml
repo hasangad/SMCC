@@ -3,4 +3,20 @@
 <file name="functions.php" server="smcc.sa" local="131813605173062053" remote="131813281200000000" Dst="0" />
 <file name="index.php" server="smcc.sa" local="131813601491380002" remote="131813277000000000" Dst="0" />
 <file name="footer.php" server="smcc.sa" local="131813507400000000" remote="131813507400000000" Dst="0" />
+<file name="404.php" server="smcc.sa" local="131813611928072184" remote="131813507400000000" Dst="0" />
+<file name="archive.php" server="smcc.sa" local="131813611930913085" remote="131813507400000000" Dst="0" />
+<file name="error_log" server="smcc.sa" local="131813611939458516" remote="131813507400000000" Dst="0" />
+<file name="category.php" server="smcc.sa" local="131813611945480733" remote="131813507400000000" Dst="0" />
+<file name="header.php" server="smcc.sa" local="131813613181303911" remote="131813508000000000" Dst="0" />
+<file name="loop.php" server="smcc.sa" local="131813613253213272" remote="131813508000000000" Dst="0" />
+<file name="onecolumn-page.php" server="smcc.sa" local="131813613265381794" remote="131813508000000000" Dst="0" />
+<file name="page.php" server="smcc.sa" local="131813613265641189" remote="131813508000000000" Dst="0" />
+<file name="screenshot.png" server="smcc.sa" local="131813613267236579" remote="131813508000000000" Dst="0" />
+<file name="sidebar.php" server="smcc.sa" local="131813613275219771" remote="131813508000000000" Dst="0" />
+<file name="search.php" server="smcc.sa" local="131813613275738380" remote="131813508000000000" Dst="0" />
+<file name="single-media.php" server="smcc.sa" local="131813613280825396" remote="131813508000000000" Dst="0" />
+<file name="single-news.php" server="smcc.sa" local="131813613285501000" remote="131813508000000000" Dst="0" />
+<file name="single.php" server="smcc.sa" local="131813613286039555" remote="131813508000000000" Dst="0" />
+<file name="style.css" server="smcc.sa" local="131813613290370301" remote="131813508000000000" Dst="0" />
+<file name="themes.php" server="smcc.sa" local="131813613320509446" remote="131813508000000000" Dst="0" />
 </dwsync>
